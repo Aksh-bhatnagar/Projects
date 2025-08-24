@@ -18,8 +18,8 @@ A full-stack, hotel & resorts listing website where users can register, log in, 
 - Express.js
 - HTML, CSS, JavaScript
 - EJS (templating engine)
-- MongoDB (or chosen DB)
-- Middleware for session/auth (e.g., `middleware.js`)
+- MongoDB 
+- Middleware for session/authentication 
 - MVC-style structure (`controllers`, `models`, `routes`, `views`)
 
 ---
